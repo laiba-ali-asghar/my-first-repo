@@ -7,6 +7,7 @@ This line was added from conflict-branch.
 >>>>>>> conflict-branch
 ===
 This line was added from both branches successfully.
+Changes made by collaborator.
 
 
 
